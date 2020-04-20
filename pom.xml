@@ -4,11 +4,11 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.joshlong.pinboard</groupId>
-    <artifactId>model</artifactId>
+    <artifactId>common</artifactId>
     <version>0.0.3-SNAPSHOT</version>
     <packaging>jar</packaging>
     <description>
-    The model for the Pinboard clients. 
+        The model and common types for the Pinboard clients.
     </description>
     <parent>
         <groupId>org.springframework.boot</groupId>

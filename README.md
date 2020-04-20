@@ -1,3 +1,3 @@
 # Pinboard Model 
 
-This model that supports the two Pinboard clients 
+This model supports the two Pinboard clients 

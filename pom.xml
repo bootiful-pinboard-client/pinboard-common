@@ -8,7 +8,7 @@
     <version>0.0.3-SNAPSHOT</version>
     <packaging>jar</packaging>
     <description>
-        The model for the Pinboard clients.
+    The model for the Pinboard clients. 
     </description>
     <parent>
         <groupId>org.springframework.boot</groupId>
